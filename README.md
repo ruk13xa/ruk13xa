@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🤟
+![My Skills](https://skillicons.dev/icons?i=ts,js,python,cpp)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruk13xa)
-
-[![My Skills](https://skillicons.dev/icons?i=ts,js,python,cpp)](https://skillicons.dev)
 
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/ruk13xa?theme=dark&posts=3)
