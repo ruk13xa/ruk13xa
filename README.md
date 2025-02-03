@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruk13xa)]
+
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/ruk13xa?theme=dark&posts=3)
