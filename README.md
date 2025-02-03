@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/ruk13xa?theme=light&posts=3)
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/ruk13xa?theme=dark&posts=3)
