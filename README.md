@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruk13xa)
 
-![ WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruk13xa)
+<!-- ![ WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruk13xa) -->
 
 [![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/Ruk13xa?theme=dark&posts=3)](https://velog.io/@ruk13xa)
