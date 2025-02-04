@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![ WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruk13xa)
 
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/ruk13xa?theme=dark&posts=3)
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/Ruk13xa?theme=dark&posts=3)
