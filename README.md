@@ -1,5 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ruk13xa&label=Profile%20views&color=0e75b6&style=flat)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=hmmhmmhm&show_icons=true&theme=dracula&hide_border=true)
+
 ## My Stacks 🔨
 
 ### Languages 📗
