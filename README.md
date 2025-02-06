@@ -2,7 +2,7 @@
 
 ## 👋🏻 I'm student developer from Seoul, South Korea🇰🇷
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ruk13xa&show_icons=true&theme=dracula&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=ruk13xa&show_icons=true&theme=dark&hide_border=true&locale=kr)
 
 ## My Stacks 🔨
 
@@ -51,7 +51,7 @@
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruk13xa&theme=dracula&show_icons=true&hide_border=true)](https://github.com/ruk13xa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruk13xa&theme=dark&show_icons=true&hide_border=true&locale=kr)](https://github.com/ruk13xa)
 
 <!-- ![ WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruk13xa) -->
 
