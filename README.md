@@ -51,7 +51,11 @@
 
 <!-- ![ WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruk13xa) -->
 
-## Currently Working on
+## Projects
+
+### In Progress
+
+### Finished Project
 
 <table>
   <tr>
