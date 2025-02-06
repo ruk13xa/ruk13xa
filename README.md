@@ -51,7 +51,7 @@
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruk13xa)](https://github.com/ruk13xa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruk13xa&theme=dracula)](https://github.com/ruk13xa)
 
 <!-- ![ WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruk13xa) -->
 
