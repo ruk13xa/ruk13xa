@@ -2,7 +2,7 @@
 
 ## 👋🏻 I'm student developer from Seoul, South Korea🇰🇷
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ruk13xa&show_icons=true&theme=dark&hide_border=true&locale=kr)
+![Stats](https://github-readme-stats.vercel.app/api?username=ruk13xa&show_icons=true&theme=dark&hide_border=true&locale=kr&rank_icon=percentile&include_all_commits=true)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ruk13xa)](https://solved.ac/ruk13xa)
 
