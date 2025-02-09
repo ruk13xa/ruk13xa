@@ -83,7 +83,7 @@
 
 ## Recent Posts
 
-[![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/Ruk13xa?theme=dark&posts=3)](https://velog.io/@ruk13xa)
+[![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/ruk13xa?theme=dark&posts=3)](https://velog.io/@ruk13xa)
 
 ## Contact
 
