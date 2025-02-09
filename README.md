@@ -4,6 +4,8 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ruk13xa&show_icons=true&theme=dark&hide_border=true&locale=kr)
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ruk13xa)](https://solved.ac/ruk13xa)
+
 ## My Stacks 🔨
 
 ### Languages 📗
