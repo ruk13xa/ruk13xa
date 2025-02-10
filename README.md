@@ -63,7 +63,7 @@
 
 <table>
   <tr>
-    <th>Name</th>
+    <th>Repo</th>
     <th>URL</th>
   </tr>
   <tr>
@@ -76,7 +76,7 @@
 
 <table>
   <tr>
-    <th>Name</th>
+    <th>Repo</th>
     <th>URL</th>
   </tr>
   <tr>
