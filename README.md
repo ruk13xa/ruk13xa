@@ -66,6 +66,10 @@
     <th>Name</th>
     <th>URL</th>
   </tr>
+  <tr>
+    <td>백준 PS</td>
+    <td>https://github.com/ruk13xa/BOJ</td>
+  </tr>
 </table>
 
 ### Finished Project
