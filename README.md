@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ruk13xa&label=Profile%20views&color=0e75b6&style=flat)
 
-## 👋🏻 I'm student developer from Seoul, South Korea🇰🇷
+## 👋🏻 I'm student developer from Seoul, South Korea [🇰🇷]
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ruk13xa&show_icons=true&theme=dark&hide_border=true&locale=kr&rank_icon=percentile&include_all_commits=true)
 
