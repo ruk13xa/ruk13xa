@@ -11,6 +11,7 @@
 ### Languages 📗
 
 ![Ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,6 +34,8 @@
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 ![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GitBook](https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white)
+![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### Cloud ☁
 
@@ -45,16 +48,27 @@
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### IDE 🔭
+
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+### Artificial Intelligence 🤖
+
+![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### Workspace 💼
 
 ![Macbook](https://img.shields.io/badge/Apple-Apple_Silicon-FFFFFF?style=for-the-badge&logo=apple&logoColor=white)
 
-### Top Languages
+### Design 📐
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruk13xa&theme=dark&show_icons=true&hide_border=true&locale=kr)](https://github.com/ruk13xa)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+### Music 🎶
+
+![ApM](https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=Apple-Music&logoColor=white)
+
+### CryptoCurrency💲
+![Btc](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white) bc1qn54nyfnm38hqj9tux6ks4egkf37wz94x7hdzga
 <!-- ![ WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruk13xa) -->
 
 ## Projects
