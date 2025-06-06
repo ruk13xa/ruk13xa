@@ -71,7 +71,7 @@
 ![Btc](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white) bc1qn54nyfnm38hqj9tux6ks4egkf37wz94x7hdzga
 <!-- ![ WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruk13xa) -->
 
-## Projects
+<!-- ## Projects
 
 ### In Progress
 
@@ -97,7 +97,7 @@
     <td>CMS Portal</td>
     <td>Private</td>
   </tr>
-</table>
+</table> !-->
 
 ## Recent Posts
 
